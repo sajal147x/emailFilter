@@ -1,0 +1,12 @@
+---
+:id: 27309401
+:submitters:
+- :name: Sajal Gupta
+  :email: sgupt49@uic.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-01-20 18:44:25.948165000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-01-20 10:44:25.948165000 Z
+:status: processed
+:score: 137.0
